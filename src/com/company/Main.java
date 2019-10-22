@@ -11,7 +11,7 @@ public class Main {
     }
 
     public enum AccountStatus {
-        ACTIVE, BLOCKED, BANNED, COMPROMISED, ARCHIVED, UNKNOWN
+        ACTIVE, BLOCKED, BANNED, COMPROMISED, ARCHIVED, UNKNOWN, ETC;
     }
 
     public enum ParkingTicketStatus {
